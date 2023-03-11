@@ -1,0 +1,9 @@
+STEPS:
+
+
+git remote add origin https://www.github.com/DebjyotiRay/KAGGLE.git
+git add .
+git status
+git commit -m "FIRST"
+git push -u origin master
+
